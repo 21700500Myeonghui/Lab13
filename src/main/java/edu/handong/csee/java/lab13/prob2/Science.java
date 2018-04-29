@@ -16,9 +16,9 @@ public class Science extends Book//The declaration of class Science to be inheri
 	public void display()//The declaration of method display() without return value
 	{
 		System.out.println("<<<Science>>>");//Outputs the string literal "<<<Science>>>"
-		System.out.println("     Id: "+id);//Outputs the string literal "     Id: 'value of variable id'"
-		System.out.println("     Book Name: "+bookName);//Outputs the string literal "     Book Name: 'value of variable bookName'"
-		System.out.println("     Publisher: "+publisher);//Outputs the string literal"     Publisher: 'value of variable publisher'"
+		System.out.println("     Id: "+id);//Outputs "     Id: 'value of variable id'"
+		System.out.println("     Book Name: "+bookName);//Outputs "     Book Name: 'value of variable bookName'"
+		System.out.println("     Publisher: "+publisher);//Outputs "     Publisher: 'value of variable publisher'"
 		
 	}
 }

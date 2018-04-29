@@ -22,8 +22,8 @@ public class Book//The declaration of class Book
 	public void display()//The declaration of method display() without return value
 	{
 		System.out.println("<<<Book>>>");//Outputs the string literal "<<<Book>>>"
-		System.out.println("     Id: "+id);//Outputs the string literal "     Id: 'value of variable id'"
-		System.out.println("     Book Name: "+bookName);//Outputs the string literal "     Book Name: 'value of variable bookName'"
+		System.out.println("     Id: "+id);//Outputs "     Id: 'value of variable id'"
+		System.out.println("     Book Name: "+bookName);//Outputs "     Book Name: 'value of variable bookName'"
 		
 	}
 }
