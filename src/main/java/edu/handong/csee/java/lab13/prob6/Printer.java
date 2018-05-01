@@ -2,7 +2,7 @@ package edu.handong.csee.java.lab13.prob6;//Instructs the Printer class to be co
 
 public class Printer //The declaration of class Printer
 {
-	
+
 	public static void print(Object object)//The declaration of static method print() without return value, A parameter is object of Object type
 	{
 		String str = object.toString();//Create String type local variable str, calling method toString() in object, put its return value in str

@@ -7,4 +7,4 @@ public class Cat extends Animal implements Pet//The declaration of class Cat to 
 		return "(Cat!)"+"Fish";//Return "(Cat!)Fish"
 	}
 
-}
+} 

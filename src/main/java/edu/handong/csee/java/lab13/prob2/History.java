@@ -21,4 +21,4 @@ public class History extends Book//The declaration of class History to be inheri
 		System.out.println("     Author: "+author);//Outputs "     Author: 'value of variable author'"
 
 	}
-}
+} 

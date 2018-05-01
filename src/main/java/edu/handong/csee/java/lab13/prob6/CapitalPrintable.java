@@ -5,4 +5,4 @@ public interface CapitalPrintable//Create Interface CapitalPrintable
 
 	//empty
 	//Marker Interface
-}
+} 

@@ -18,4 +18,4 @@ public class InstanceOf//The declaration of class InstanceOf
 			friend.justFriend();//calling method justFriend() in friend
 		}
 	}
-}
+} 

@@ -9,4 +9,5 @@ public class Friend//The declaration of class Friend
 	}
 
 
-}
+} 
+ 

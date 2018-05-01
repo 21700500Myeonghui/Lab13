@@ -2,7 +2,7 @@ package edu.handong.csee.java.lab13.prob4;//Instructs the Pet class to be compli
 
 public interface Pet//Create Interface Pet
 {
-	
+
 	abstract public String food();//Adding a new abstraction method food()
 
 }
