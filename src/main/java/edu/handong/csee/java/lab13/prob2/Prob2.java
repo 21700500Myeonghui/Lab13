@@ -12,10 +12,10 @@ public class Prob2//The declaration of class Prob2
 		History book3=new History("What Is history?", "E.H.Carr");//Instantiate of an History object, calling constructor, values of parameter are "What Is history?" and "E.H.Carr" at this time
 		History book4=new History("The South Korea", "Judis");//Instantiate of an History object, calling constructor, values of parameter are "The South Korea" and "Judis" at this time
 		
-		book1.display();//calling method dispaly() in book1
-		book2.display();//calling method dispaly() in book2
-		book3.display();//calling method dispaly() in book3
-		book4.display();//calling method dispaly() in book4
+		book1.display();//calling method display() in book1
+		book2.display();//calling method display() in book2
+		book3.display();//calling method display() in book3
+		book4.display();//calling method display() in book4
 	}
 
 }
