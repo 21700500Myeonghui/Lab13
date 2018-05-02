@@ -10,7 +10,7 @@ public class DownPoint //The declaration of class DownPoint
 		this.y=y;//put the parameter y into the member variable y, 'this' is a reference to the object itself
 	}
 
-	public String toString()//The declaration of method toString() with String type return value
+	public String returnString()//The declaration of method returnString() with String type return value
 	{
 		return "x: "+x+" y: "+y;//Return "x: 'value of variable x' y: 'value of variable y'"
 	}

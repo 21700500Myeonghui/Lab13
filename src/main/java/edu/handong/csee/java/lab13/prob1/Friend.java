@@ -3,7 +3,7 @@ package edu.handong.csee.java.lab13.prob1;//Instructs the Friend class to be com
 public class Friend//The declaration of class Friend
 {
 
-	public void justFriend()//The declaration of method justFriend() without return value
+	public void tellJustFriend()//The declaration of method tellJustFriend() without return value
 	{
 		System.out.println("Just friend!");//Outputs the string literal "Just friend"
 	}

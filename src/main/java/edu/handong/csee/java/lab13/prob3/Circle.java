@@ -21,15 +21,15 @@ public class Circle extends Shapes//The declaration of class Circle to be inheri
 
 	}
 
-	public double area()//The declaration of method area() with double type return value
+	public double calculateArea()//The declaration of method calculateArea() with double type return value
 	{
 		return Math.PI * Math.pow(radius, 2);//Return pi * radius * radius
 
 	}
 
-	public double perimeter()//The declaration of method perimeter() with double type return value
+	public double calculatePerimeter()//The declaration of method calculatePerimeter() with double type return value
 	{
 		return 2.0 * Math.PI *radius;//Return 2.0 * pi * radius
 	}
 
-}
+} 

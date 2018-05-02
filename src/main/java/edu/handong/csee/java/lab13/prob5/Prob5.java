@@ -69,13 +69,13 @@ public class Prob5 //The declaration of class Prob5
 			System.out.print("\n");//Outputs one line
 		}
 
-		tf=equals(array1,array2);//calling method equals with the parameters are array1, array2, and put return value of calling method equals in tf
+		tf=equal(array1,array2);//calling method equals with the parameters are array1, array2, and put return value of calling method equals in tf
 		displayResult(tf);//calling method displayResult, the parameter is tf
 
 
 	}
 
-	public static boolean equals(int[][] array1, int[][] array2)//The declaration of static method equals with boolean type return value, A parameters are array1, array2 of integer[][] type 
+	public static boolean equal(int[][] array1, int[][] array2)//The declaration of static method equal with boolean type return value, A parameters are array1, array2 of integer[][] type 
 	{
 		// TODO Auto-generated method stub
 

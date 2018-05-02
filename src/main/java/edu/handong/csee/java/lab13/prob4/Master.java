@@ -7,9 +7,9 @@ public class Master//The declaration of class Master
 
 	public static void feed(Pet pet)//The declaration of static method feed() without return value, A parameter is a pet of interface Pet type
 	{
-		System.out.println("feed: "+pet.food());//Outputs "feed: 'return value of calling method food in pet'"
+		System.out.println("feed: "+pet.giveFood());//Outputs "feed: 'return value of calling method giveFood() in pet'"
 	}
-
+ 
 	public static void main(String[] args)//The declaration of static main method without return value
 	{
 		// TODO Auto-generated method stub

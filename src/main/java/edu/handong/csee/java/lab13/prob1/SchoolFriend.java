@@ -3,7 +3,7 @@ package edu.handong.csee.java.lab13.prob1;//Instructs the SchoolFriend class to 
 public class SchoolFriend extends Friend//The declaration of class SchoolFriend to Be inherited of Friend
 {
 
-	public void schoolFriend()//The declaration of method schoolFriend() without return value
+	public void tellSchoolFriend()//The declaration of method tellSchoolFriend() without return value
 	{
 		System.out.println("School friend!");//Outputs the string literal "School friend"
 	}

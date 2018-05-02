@@ -27,13 +27,13 @@ public class Rectangle extends Shapes//The declaration of class Rectangle to be 
 
 	}
 
-	public double area()//The declaration of method area() without return value
+	public double calculateArea()//The declaration of method calculateArea() without return value
 	{
 		return length*width;//Return length * width
 	}
 
-	public double perimeter()//The declaration of method perimeter() without return value
+	public double calculatePerimeter()//The declaration of method calculatePerimeter() without return value
 	{
 		return 2*(length+width);//Return 2*(length+width)
 	}
-}
+} 
